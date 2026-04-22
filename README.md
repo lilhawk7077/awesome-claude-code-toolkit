@@ -558,6 +558,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | WebSocket & Realtime | `skills/websocket-realtime/` | Socket.io, SSE, reconnection, scaling |
 | Testing Strategies | `skills/testing-strategies/` | Contract testing, snapshot testing, property-based testing |
 | Git Advanced | `skills/git-advanced/` | Worktrees, bisect, interactive rebase, hooks |
+| [StyleSeed](https://github.com/bitjaru/styleseed) | `skills/styleseed/` | Design judgment: 69 visual rules, brand skins, professional UI |
 | Accessibility (WCAG) | `skills/accessibility-wcag/` | ARIA patterns, keyboard navigation, color contrast |
 | Performance Optimization | `skills/performance-optimization/` | Code splitting, image optimization, Core Web Vitals |
 | Mobile Development | `skills/mobile-development/` | React Native, Flutter, responsive layouts |
