@@ -1,6 +1,6 @@
 # Claude Code Toolkit
 
-**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 53 ecosystem entries, and more.**
+**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 177+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 53 ecosystem entries, and more.**
 
 <p align="center">
   <a href="https://trendshift.io/repositories/21839" target="_blank">
@@ -209,7 +209,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [lightcms](https://github.com/jonradoff/lightcms) | AI-native CMS with 41 MCP tools for managing websites through natural language — pages, templates, assets, themes, collections, redirects, and more with full content versioning |
 | [linear-helper](plugins/linear-helper/) | Linear issue tracking integration and workflow management |
 | [load-tester](plugins/load-tester/) | Load and stress testing for APIs and web services |
-| [magic-cc-codex-worker](https://github.com/wenqingyu/magic-cc-codex-worker) | Turns OpenAI Codex into a pool of parallel agent workers for Claude Code. Each worker runs in its own `git worktree` to isolate concurrent edits. Resumable sessions, dual-model PR review (PR materialized in a detached worktree for the reviewer), role-based specialization (implementer/reviewer/planner), delegation-level knob (minimal/balance/max), bundled single-file MCP server. 9 slash commands, 3 subagents, 62 unit tests, CI on Node 20/22. Install: `/plugin marketplace add wenqingyu/magic-cc-codex-worker` then `/plugin install magic-codex@magic-codex` |
+| [magic-cc-codex-worker](https://github.com/wenqingyu/magic-cc-codex-worker) | Turns OpenAI Codex into a pool of parallel agent workers for Claude Code. Each worker runs in its own `git worktree` to isolate concurrent edits. Resumable sessions, dual-model PR review (PR materialized in a detached worktree for the reviewer), role-based specialization (implementer/reviewer/planner), delegation-level knob (minimal/balance/max), bundled single-file MCP server. 9 slash commands, 3 subagents, 62 unit tests, CI on Node 20/22. Install: `/plugin marketplace add wenqingyu/magic-cc-codex-worker` then `/plugin install magic-codex@magic-codex`. License: PolyForm Noncommercial 1.0.0 (free for independent devs / research / nonprofits; commercial use requires separate license) |
 | [memory-profiler](plugins/memory-profiler/) | Memory leak detection and heap analysis |
 | [migrate-tool](plugins/migrate-tool/) | Generate database migrations and code migration scripts for framework upgrades |
 | [migration-generator](plugins/migration-generator/) | Database migration generation and rollback management |
