@@ -305,6 +305,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [tailtest](https://github.com/avansaber/tailtest) | Automatically generates and runs tests for every file Claude Code creates or modifies. PostToolUse hook detects changes, generates scenarios, runs them, and surfaces failures. 8 languages (Python, TypeScript, JavaScript, Go, Ruby, PHP, Java, Rust). Zero config, zero commands. |
 | [dodo-agent-plugin](https://github.com/dodopayments/dodo-agent-plugin) | Official Dodo Payments plugin: 8 integration skills (checkout, subscriptions, webhooks, usage-based billing, credits, license keys, BillingSDK, best practices) and 2 MCP servers (live API + docs search) with browser OAuth. Multi-agent: Claude Code, Codex, Cursor, OpenCode |
 | [dodo-agent-plugin](https://github.com/dodopayments/dodo-agent-plugin) | Official Dodo Payments plugin: 8 integration skills (checkout, subscriptions, webhooks, usage-based billing, credits, license keys, BillingSDK, best practices) and 2 MCP servers (live API via browser OAuth + docs search, no auth). Multi-agent: Claude Code, Codex, Cursor, OpenCode |
+| [claude-time](https://github.com/nexusbuildsai/claude-time) | Live local time + timezone injected into every prompt via `UserPromptSubmit` hook. Stops Claude from saying "tonight" at 9 AM. Also stamps every response with `[HH:MM AM/PM TZ]` so you can see when each message landed (useful when tasks stall). Zero config, zero deps beyond `jq`. MIT |
 
 ### Installing a Plugin
 
